@@ -7,7 +7,7 @@ on:
 
 permissions:
   contents: write
-g
+
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
